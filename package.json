@@ -3,6 +3,7 @@
   "version": "0.2.3",
   "description": "AngularJS validator.",
   "homepage": "https://github.com/kelp404/angular-validator",
+  "main": "./dist/angular-validator.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/kelp404/angular-validator.git"
