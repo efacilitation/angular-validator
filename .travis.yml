@@ -1,10 +1,10 @@
 language: node_js
 node_js:
-  - 5.6
-
+- 5.6
 before_script:
-  - export DISPLAY=:99.0
-  - sh -e /etc/init.d/xvfb start
-  - npm install -g grunt-cli
-  - npm install -g bower
-  - bower install
+- export DISPLAY=:99.0
+- sh -e /etc/init.d/xvfb start
+notifications:
+  hipchat:
+    rooms:
+      secure: b9PXJQObNf3LIgnxs8h7g0SzQZYvIq11jXPyLxgdMPz1ELh3hscQqvOR55BdPW+i2k44fNkbGr/IxMtgxLIAKW+uQJaoFbRrL9h38YplfqOW8k+v8gRURmMVcb1OmgCY4mwTLPNWHiijFOJb0EZ0M7fodtwIkh5GF0iTSbs0Urg=
