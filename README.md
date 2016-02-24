@@ -1,4 +1,4 @@
-#angular-validator [![Build Status](https://secure.travis-ci.org/kelp404/angular-validator.png?branch=master)](http://travis-ci.org/kelp404/angular-validator) [![devDependency Status](https://david-dm.org/kelp404/angular-validator/dev-status.png?branch=master)](https://david-dm.org/kelp404/angular-validator#info=devDependencies)
+#angular-validator [![Build Status](https://travis-ci.org/efacilitation/angular-validator.svg?branch=master)](https://travis-ci.org/efacilitation/angular-validator) [![devDependency Status](https://david-dm.org/kelp404/angular-validator/dev-status.png?branch=master)](https://david-dm.org/kelp404/angular-validator#info=devDependencies)
 
 [MIT License](http://www.opensource.org/licenses/mit-license.php)  
 
